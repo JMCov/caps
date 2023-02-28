@@ -34,7 +34,7 @@ N/A
 
 #### UML
 
-![Lab-07 UML](assets/lab-11-uml.PNG)
+![Lab-11 UML](assets/lab-11-uml.PNG)
 
 Collaborators:
 
