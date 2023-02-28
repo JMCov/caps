@@ -8,3 +8,9 @@ eventPool.on('VENDOR', (store) => {
     handler(store);
   }, 1000);
 });
+
+eventPool.on('delivered', (payload) => {
+  setTimeout(() => {
+    console.log(`VENDOR: Thank you for delivering ${payload.orderID}`);
+  }, 1100);
+});
