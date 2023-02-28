@@ -17,7 +17,7 @@ eventPool.on('in-transit', (payload) => {
 });
 
 eventPool.on('delivered', (payload) => {
-  setTimeout(() => {
+ 
     console.log(`DRIVER: delivered ${payload.orderID}`);
-  }, 1000);
+
 });
