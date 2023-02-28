@@ -14,7 +14,7 @@ module.exports = (store) => {
     address: chance.address(),
   };
 
-  // console.log(`PICKUP: ${{ payload }}`);
+  
   eventPool.emit('pickup', payload);
 
 };
