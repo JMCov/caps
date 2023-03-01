@@ -26,7 +26,7 @@ N/A
 
 fill this in as you see fit
 - How do you run tests?
-npm hub.js
+nodemon
 - Any tests of note?
 No
 - Describe any tests that you did not complete, skipped, etc
@@ -35,9 +35,10 @@ N/A
 #### UML
 
 ![Lab-11 UML](assets/lab-11-uml.PNG)
+![Lab-12 UML](assets/lab-12-uml.PNG)
 
 Collaborators:
 
 Joe Davitt
 Ty Aponte
-Joe Davitt
+
